@@ -1,6 +1,6 @@
-# VEGA: AI-Powered Medical Diagnostic System
+# Sentinel Health: AI-Powered Medical Diagnostic System
 
-VEGA is a comprehensive healthcare diagnostic platform developed for the **VEGA Hackathon**. It leverages deep learning models to assist in the detection of various medical conditions, including Alzheimer's, Brain Tumors, Lung Cancer, and Bone Fractures, through advanced medical imaging analysis.
+Sentinel Health is a comprehensive healthcare diagnostic platform developed for the **VEGA Hackathon**. It leverages deep learning models to assist in the detection of various medical conditions, including Alzheimer's, Brain Tumors, Lung Cancer, and Bone Fractures, through advanced medical imaging analysis.
 
 ## 🚀 Features
 * **Multi-Disease Diagnostics**: A unified interface to detect multiple conditions using specialized AI architectures.
